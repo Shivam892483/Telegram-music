@@ -15,5 +15,3 @@ you can use AngelMusic / AngelMusicV2
 
 <details>
 <summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3></summary>
